@@ -4,4 +4,4 @@ fjhjkssssssssssssssssssssssssssssssssssssssssssssssssscnsskjholifhslhalgkjhaglai
 
 - Auteur : Arsaniq Aubin Li
 - Cours : 1W1-Mise en page web
-- Github-page : git 
+- Github-page : https://arsaniq.github.io/gr2-1W1-tp2/
