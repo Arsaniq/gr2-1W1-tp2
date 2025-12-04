@@ -66,8 +66,12 @@ body > div:nth-of-type(6){
     background-color: rgb(169, 93, 255);
 }
 
-body > div:nth-of-type(6){
+body > div:nth-of-type(7){
     background-color: rgb(57, 3, 119);
+}
+
+body > div:nth-of-type(8){
+    background-color: rgb(145, 33, 98);
 }
 
 .centre{
